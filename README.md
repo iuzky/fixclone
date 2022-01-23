@@ -48,6 +48,19 @@ gclone_para_override = Leave it Blank
 6. Type /`folders` and set your favourite Folders
 7. Send or forward a message with a Google Drive link to the bot to start Copying...
 
+## Vars:
+BOT_TOKEN //Get from Telegram Botfather
+```
+
+GC_PARA_OVERRIDE //Leave this if u Dont Know
+```
+
+GRP_ID //Create a Super Group(s) and add ID Here (if More than 1 group Give IDs seperated by ','
+```
+
+USER_ID //get from telegram get_id_bot. For More than 1 User Give IDs seperated by ','.The First Guy is the Admin
+```
+
 ## Credits:
 🧠 [wrenfairbank](https://github.com/wrenfairbank) - [Here](https://github.com/wrenfairbank/telegram_gcloner) - Original Author of the Bot
 
